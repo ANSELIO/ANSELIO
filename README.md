@@ -4,6 +4,8 @@
 - 🌱 Estudando Java DevSuperior 
 - 👋 Spring Boot
 - 😄 Bank end
+- ✈️ Estudando React JS
+- 🚀 front-end
 <div>
   <a href="https://github.com/Anselio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANSELIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -89,4 +91,5 @@ yarn start
 
 Anselio J Ferreira
 
-https://www.linkedin.com/in/Anseliojose
+https://www.linkedin.com/in/anselio-jose-00274b2a1/
+ 
